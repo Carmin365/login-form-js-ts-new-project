@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(200, 237, 247);
+}
+
+input {
+    border-radius: 6px;
+    border: black solid thin;
+    heigth: 26px;
+    padding: 10px;
+}
+
+#login-form, #app {
+    margin: 20px auto;
+    width: 300px;
+    padding: 20px;
+    border-radius: 6px;
+    border: 1px solid #ccc; 
+}
+
+button {
+    border-radius: 5px;
+    background-color: #ccc 
+}
+
+.resposta {
+    color: blue;
+}
